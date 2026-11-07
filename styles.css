@@ -9,3 +9,11 @@
 .footer-brand {
     gap: 2px !important;
 }
+/* Pull the wordmark closer to the emblem */
+.brand .brand-wordmark {
+    margin-left: -35px !important;
+}
+
+.footer-brand .footer-wordmark {
+    margin-left: -30px !important;
+}
